@@ -637,19 +637,19 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Nemůžeš otevřít obchod během raidu!
 SHOP_INFO_OPEN: Obchod byl otevřen!
 SHOP_INFO_TARGET_MAX_GOLD: Hráč dosáhl maximálního množství zlata.
 SHOP_LOG_SELL_ITEM_VALID: Transakce úspěšná
-SKILL_CHATMESSAGE_ALREADY_LEARNT: Této dovednosti jsi již naučen.
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Tuto dovednost jsi se už naučil .
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Nemůžeš se naučit dovednosti, když jsi transformován.
-SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musíš se nejdříve naučit základní dovednosti.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musíš se nejdříve naučit základní dovednost.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Nemůžeš požadovat navrácení za tuto dovednost!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo přerušeno!
-SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšení dovednosti tímto typem?
-SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se učit této dovednosti.
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšenou dovednost tímto typem?
+SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se naučit tuto dovednost.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Musíš počkat než skončí cooldown u dovednosti, než se začneš učit nové.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Odchycení selhalo!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Nemůžeš odchytit toto monstrum!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Nemůžeš odchytit toto monstrum během raidu!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: Úspěšně jsi odchytil {0}!
-SKILL_SHOUTMESSAGE_LEARNED: Naučil ses nové dovednosti!
+SKILL_SHOUTMESSAGE_LEARNED: Naučil ses novou dovednost!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level monstra musí být menší než tvůj, aby bylo možné jej chytit!
 SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monstra musí mít méně než 50% HP, aby bylo možné je chytit.
 SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se obětoval pro {1}.'
